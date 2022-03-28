@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeration_Composition", "CSharp_Intermed_UDEMY\Enumeration_Composition.csproj", "{E3DBE307-5767-4E0B-82EE-1019F47E4A8F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First_Task_Employee", "First_Task\First_Task_Employee.csproj", "{68B80A1D-616B-4349-8195-06E871B95D22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Posts", "Posts\Posts.csproj", "{FB288DED-C6B7-4681-820A-88A4D05B9E9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Posts", "Posts\Posts.csproj", "{FB288DED-C6B7-4681-820A-88A4D05B9E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E3DBE307-5767-4E0B-82EE-1019F47E4A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3DBE307-5767-4E0B-82EE-1019F47E4A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3DBE307-5767-4E0B-82EE-1019F47E4A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3DBE307-5767-4E0B-82EE-1019F47E4A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{68B80A1D-616B-4349-8195-06E871B95D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{68B80A1D-616B-4349-8195-06E871B95D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B80A1D-616B-4349-8195-06E871B95D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
