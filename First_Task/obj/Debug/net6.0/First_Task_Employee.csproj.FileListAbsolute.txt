@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\First_Task_Employee.exe
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\First_Task_Employee.deps.json
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\First_Task_Employee.runtimeconfig.json
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\First_Task_Employee.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\ref\First_Task_Employee.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\bin\Debug\net6.0\First_Task_Employee.pdb
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\ref\First_Task_Employee.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.pdb
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\First_Task\obj\Debug\net6.0\First_Task_Employee.genruntimeconfig.cache

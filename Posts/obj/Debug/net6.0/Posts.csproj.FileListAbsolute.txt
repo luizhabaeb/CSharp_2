@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\Posts.exe
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\Posts.deps.json
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\Posts.runtimeconfig.json
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\Posts.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\ref\Posts.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\bin\Debug\net6.0\Posts.pdb
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\ref\Posts.dll
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.pdb
+C:\Users\elisilu\source\repos\CSharp_Intermed_UDEMY\Posts\obj\Debug\net6.0\Posts.genruntimeconfig.cache

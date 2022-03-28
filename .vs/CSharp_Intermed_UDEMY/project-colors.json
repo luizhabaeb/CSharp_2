@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3dbe307-5767-4e0b-82ee-1019f47e4a8f": {
+      "ProjectGuid": "e3dbe307-5767-4e0b-82ee-1019f47e4a8f",
+      "DisplayName": "CSharp_Intermed_UDEMY",
+      "ColorIndex": 0
+    },
+    "68b80a1d-616b-4349-8195-06e871b95d22": {
+      "ProjectGuid": "68b80a1d-616b-4349-8195-06e871b95d22",
+      "DisplayName": "First_Task_Employee",
+      "ColorIndex": 1
+    },
+    "fb288ded-c6b7-4681-820a-88a4d05b9e9b": {
+      "ProjectGuid": "fb288ded-c6b7-4681-820a-88a4d05b9e9b",
+      "DisplayName": "Posts",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
