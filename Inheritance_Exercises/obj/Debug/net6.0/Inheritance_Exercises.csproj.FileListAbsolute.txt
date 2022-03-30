@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\Inheritance_Exercises.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\Inheritance_Exercises.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\Inheritance_Exercises.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\Inheritance_Exercises.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\ref\Inheritance_Exercises.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\bin\Debug\net6.0\Inheritance_Exercises.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\ref\Inheritance_Exercises.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance_Exercises\obj\Debug\net6.0\Inheritance_Exercises.genruntimeconfig.cache
