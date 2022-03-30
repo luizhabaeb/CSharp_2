@@ -4,13 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance_and_Polymorphism.Entities
+namespace Upcasting_Downcasting.Entities
 {
     internal class Account
     {
-        public int Number { get; private set; }
-        public string Holder { get; private set; }
+        public int Number { get; protected set; }
+
+        public string Holder { get; set; }
+
         public double Balance { get; protected set; }
+
 
         public Account()
         {
@@ -22,16 +25,15 @@ namespace Inheritance_and_Polymorphism.Entities
             Holder = holder;
             Balance = balance;
         }
-
-        public void Withdraw(double amount)
+        
+        public virtual void Withdraw(double amount) //virtual para poder sobreescrever depois 
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)
         {
             Balance += amount;
         }
-
     }
 }

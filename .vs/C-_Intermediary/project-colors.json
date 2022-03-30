@@ -15,7 +15,12 @@
       "ProjectGuid": "fb288ded-c6b7-4681-820a-88a4d05b9e9b",
       "DisplayName": "Posts",
       "ColorIndex": 2
+    },
+    "0c3bd6a9-cbc6-46e8-a23c-d5dab5ab8f72": {
+      "ProjectGuid": "0c3bd6a9-cbc6-46e8-a23c-d5dab5ab8f72",
+      "DisplayName": "Inheritance and Polymorphism",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

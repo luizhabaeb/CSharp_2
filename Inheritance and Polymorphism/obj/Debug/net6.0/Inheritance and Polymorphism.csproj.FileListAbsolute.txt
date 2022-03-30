@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\Inheritance and Polymorphism.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\Inheritance and Polymorphism.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\Inheritance and Polymorphism.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\Inheritance and Polymorphism.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\ref\Inheritance and Polymorphism.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\bin\Debug\net6.0\Inheritance and Polymorphism.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\ref\Inheritance and Polymorphism.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Inheritance and Polymorphism\obj\Debug\net6.0\Inheritance and Polymorphism.genruntimeconfig.cache

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First_Task_Employee", "Firs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Posts", "Posts\Posts.csproj", "{FB288DED-C6B7-4681-820A-88A4D05B9E9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance and Polymorphism", "Inheritance and Polymorphism\Inheritance and Polymorphism.csproj", "{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance and Polymorphism", "Inheritance and Polymorphism\Inheritance and Polymorphism.csproj", "{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting_Downcasting_Overlap_IS_AS_Base", "Upcasting_Downcasting\Upcasting_Downcasting_Overlap_IS_AS_Base.csproj", "{2100C5A9-57EA-41C6-B506-93926A9A974D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2100C5A9-57EA-41C6-B506-93926A9A974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2100C5A9-57EA-41C6-B506-93926A9A974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2100C5A9-57EA-41C6-B506-93926A9A974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2100C5A9-57EA-41C6-B506-93926A9A974D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
