@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First_Task_Employee", "Firs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Posts", "Posts\Posts.csproj", "{FB288DED-C6B7-4681-820A-88A4D05B9E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance and Polymorphism", "Inheritance and Polymorphism\Inheritance and Polymorphism.csproj", "{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FB288DED-C6B7-4681-820A-88A4D05B9E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB288DED-C6B7-4681-820A-88A4D05B9E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB288DED-C6B7-4681-820A-88A4D05B9E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
