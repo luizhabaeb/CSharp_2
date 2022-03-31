@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\Exercise_Products.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\Exercise_Products.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\Exercise_Products.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\Exercise_Products.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\ref\Exercise_Products.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\bin\Debug\net6.0\Exercise_Products.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\ref\Exercise_Products.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercise_Products\obj\Debug\net6.0\Exercise_Products.genruntimeconfig.cache

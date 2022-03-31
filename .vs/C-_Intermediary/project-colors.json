@@ -20,7 +20,22 @@
       "ProjectGuid": "0c3bd6a9-cbc6-46e8-a23c-d5dab5ab8f72",
       "DisplayName": "Inheritance and Polymorphism",
       "ColorIndex": 3
+    },
+    "2100c5a9-57ea-41c6-b506-93926a9a974d": {
+      "ProjectGuid": "2100c5a9-57ea-41c6-b506-93926a9a974d",
+      "DisplayName": "Upcasting_Downcasting_Overlap_IS_AS_Base",
+      "ColorIndex": 4
+    },
+    "8963fb76-1639-42d6-ae82-6415bb39a265": {
+      "ProjectGuid": "8963fb76-1639-42d6-ae82-6415bb39a265",
+      "DisplayName": "Inheritance_Exercises",
+      "ColorIndex": 5
+    },
+    "1e9ffdea-b981-4e16-bcbc-8800188b5dff": {
+      "ProjectGuid": "1e9ffdea-b981-4e16-bcbc-8800188b5dff",
+      "DisplayName": "Exercise_Products",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
