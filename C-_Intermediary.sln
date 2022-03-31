@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Posts", "Posts\Posts.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance and Polymorphism", "Inheritance and Polymorphism\Inheritance and Polymorphism.csproj", "{0C3BD6A9-CBC6-46E8-A23C-D5DAB5AB8F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting_Downcasting_Overlap_IS_AS_Base", "Upcasting_Downcasting\Upcasting_Downcasting_Overlap_IS_AS_Base.csproj", "{2100C5A9-57EA-41C6-B506-93926A9A974D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Upcasting_Downcasting_Overlap_IS_AS_Base", "Upcasting_Downcasting\Upcasting_Downcasting_Overlap_IS_AS_Base.csproj", "{2100C5A9-57EA-41C6-B506-93926A9A974D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Exercises", "Inheritance_Exercises\Inheritance_Exercises.csproj", "{8963FB76-1639-42D6-AE82-6415BB39A265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance_Exercises", "Inheritance_Exercises\Inheritance_Exercises.csproj", "{8963FB76-1639-42D6-AE82-6415BB39A265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Products", "Exercise_Products\Exercise_Products.csproj", "{1E9FFDEA-B981-4E16-BCBC-8800188B5DFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Products", "Exercise_Products\Exercise_Products.csproj", "{1E9FFDEA-B981-4E16-BCBC-8800188B5DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Class_N_Methods", "Abstract_Class_N_Methods\Abstract_Class_N_Methods.csproj", "{C6850D80-4D90-4E66-B376-178EE2B20A77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1E9FFDEA-B981-4E16-BCBC-8800188B5DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E9FFDEA-B981-4E16-BCBC-8800188B5DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E9FFDEA-B981-4E16-BCBC-8800188B5DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6850D80-4D90-4E66-B376-178EE2B20A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6850D80-4D90-4E66-B376-178EE2B20A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6850D80-4D90-4E66-B376-178EE2B20A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6850D80-4D90-4E66-B376-178EE2B20A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
