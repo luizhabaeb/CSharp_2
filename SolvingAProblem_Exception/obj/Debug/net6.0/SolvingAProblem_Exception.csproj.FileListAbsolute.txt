@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\SolvingAProblem_Exception.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\SolvingAProblem_Exception.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\SolvingAProblem_Exception.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\SolvingAProblem_Exception.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\ref\SolvingAProblem_Exception.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\bin\Debug\net6.0\SolvingAProblem_Exception.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\ref\SolvingAProblem_Exception.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\SolvingAProblem_Exception\obj\Debug\net6.0\SolvingAProblem_Exception.genruntimeconfig.cache
