@@ -35,7 +35,12 @@
       "ProjectGuid": "1e9ffdea-b981-4e16-bcbc-8800188b5dff",
       "DisplayName": "Exercise_Products",
       "ColorIndex": 6
+    },
+    "c6850d80-4d90-4e66-b376-178ee2b20a77": {
+      "ProjectGuid": "c6850d80-4d90-4e66-b376-178ee2b20a77",
+      "DisplayName": "Abstract_Class_N_Methods",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

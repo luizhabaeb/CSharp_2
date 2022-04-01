@@ -3,3 +3,13 @@ C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug
 C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.AssemblyInfoInputs.cache
 C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.AssemblyInfo.cs
 C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\Abstract_Class_N_Methods.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\Abstract_Class_N_Methods.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\Abstract_Class_N_Methods.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\Abstract_Class_N_Methods.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\ref\Abstract_Class_N_Methods.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\bin\Debug\net6.0\Abstract_Class_N_Methods.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\ref\Abstract_Class_N_Methods.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Abstract_Class_N_Methods\obj\Debug\net6.0\Abstract_Class_N_Methods.genruntimeconfig.cache

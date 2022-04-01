@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ExceptionHandling_Training.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ExceptionHandling_Training.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ExceptionHandling_Training.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ExceptionHandling_Training.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ref\ExceptionHandling_Training.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\bin\Debug\net6.0\ExceptionHandling_Training.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ref\ExceptionHandling_Training.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\ExceptionHandling_Training\obj\Debug\net6.0\ExceptionHandling_Training.genruntimeconfig.cache

@@ -12,7 +12,7 @@ int n = int.Parse(Console.ReadLine());
 Console.ResetColor();
 Console.WriteLine();
 
-for (int i = 0; i < n; i++)
+for (int i = 1; i <= n; i++)
 {
     Console.WriteLine($"Shape {i} data: ");
     Console.Write("Rectangle or Circle (r/c)? ");
@@ -23,7 +23,7 @@ for (int i = 0; i < n; i++)
     {
         Console.Write("Width: ");
         double width = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        Console.Write("Weight: ");
+        Console.Write("Height: ");
         double height = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         list.Add(new Rectangle(width, height, color));
     }
