@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\Exercises_CSV.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\Exercises_CSV.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\Exercises_CSV.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\Exercises_CSV.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\ref\Exercises_CSV.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\bin\Debug\net6.0\Exercises_CSV.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\ref\Exercises_CSV.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.genruntimeconfig.cache
