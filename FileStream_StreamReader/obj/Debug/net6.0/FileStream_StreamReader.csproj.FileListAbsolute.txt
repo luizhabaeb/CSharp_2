@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\FileStream_StreamReader.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\FileStream_StreamReader.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\FileStream_StreamReader.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\FileStream_StreamReader.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\ref\FileStream_StreamReader.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\bin\Debug\net6.0\FileStream_StreamReader.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\ref\FileStream_StreamReader.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\FileStream_StreamReader\obj\Debug\net6.0\FileStream_StreamReader.genruntimeconfig.cache

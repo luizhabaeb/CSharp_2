@@ -17,11 +17,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Products", "Exerci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Class_N_Methods", "Abstract_Class_N_Methods\Abstract_Class_N_Methods.csproj", "{C6850D80-4D90-4E66-B376-178EE2B20A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{FDD2669B-037D-4455-BD32-425CEFD025D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{FDD2669B-037D-4455-BD32-425CEFD025D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling_Training", "ExceptionHandling_Training\ExceptionHandling_Training.csproj", "{35957A59-71AE-4E3D-AA10-6C769FD7F386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling_Training", "ExceptionHandling_Training\ExceptionHandling_Training.csproj", "{35957A59-71AE-4E3D-AA10-6C769FD7F386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvingAProblem_Exception", "SolvingAProblem_Exception\SolvingAProblem_Exception.csproj", "{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolvingAProblem_Exception", "SolvingAProblem_Exception\SolvingAProblem_Exception.csproj", "{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFILES", "WorkingWithFILES\WorkingWithFILES.csproj", "{391E7D38-9729-4CC2-875E-1A686D14D866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream_StreamReader", "FileStream_StreamReader\FileStream_StreamReader.csproj", "{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USINGBlock", "USINGBlock\USINGBlock.csproj", "{845710E9-2DC0-4664-9FCE-2540B7B7608A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{03185A26-9AFD-43C8-8859-076E070DA508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory_DirectoryInfo", "Directory_DirectoryInfo\Directory_DirectoryInfo.csproj", "{BA325603-8E60-48CE-9CC2-EA0EC2089E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +81,30 @@ Global
 		{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391E7D38-9729-4CC2-875E-1A686D14D866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391E7D38-9729-4CC2-875E-1A686D14D866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391E7D38-9729-4CC2-875E-1A686D14D866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391E7D38-9729-4CC2-875E-1A686D14D866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845710E9-2DC0-4664-9FCE-2540B7B7608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845710E9-2DC0-4664-9FCE-2540B7B7608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845710E9-2DC0-4664-9FCE-2540B7B7608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845710E9-2DC0-4664-9FCE-2540B7B7608A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03185A26-9AFD-43C8-8859-076E070DA508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03185A26-9AFD-43C8-8859-076E070DA508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03185A26-9AFD-43C8-8859-076E070DA508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03185A26-9AFD-43C8-8859-076E070DA508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA325603-8E60-48CE-9CC2-EA0EC2089E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA325603-8E60-48CE-9CC2-EA0EC2089E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA325603-8E60-48CE-9CC2-EA0EC2089E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA325603-8E60-48CE-9CC2-EA0EC2089E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

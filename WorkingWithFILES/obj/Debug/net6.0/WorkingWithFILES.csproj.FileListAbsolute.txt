@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\WorkingWithFILES.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\WorkingWithFILES.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\WorkingWithFILES.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\WorkingWithFILES.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\ref\WorkingWithFILES.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\bin\Debug\net6.0\WorkingWithFILES.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\ref\WorkingWithFILES.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\WorkingWithFILES\obj\Debug\net6.0\WorkingWithFILES.genruntimeconfig.cache

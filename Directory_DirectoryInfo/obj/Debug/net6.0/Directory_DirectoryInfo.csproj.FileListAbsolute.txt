@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\ref\Directory_DirectoryInfo.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\ref\Directory_DirectoryInfo.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.genruntimeconfig.cache

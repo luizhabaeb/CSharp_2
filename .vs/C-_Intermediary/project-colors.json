@@ -40,7 +40,22 @@
       "ProjectGuid": "c6850d80-4d90-4e66-b376-178ee2b20a77",
       "DisplayName": "Abstract_Class_N_Methods",
       "ColorIndex": 7
+    },
+    "fdd2669b-037d-4455-bd32-425cefd025d6": {
+      "ProjectGuid": "fdd2669b-037d-4455-bd32-425cefd025d6",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 8
+    },
+    "35957a59-71ae-4e3d-aa10-6c769fd7f386": {
+      "ProjectGuid": "35957a59-71ae-4e3d-aa10-6c769fd7f386",
+      "DisplayName": "ExceptionHandling_Training",
+      "ColorIndex": 9
+    },
+    "b79acb85-2e83-4cfc-8584-b4fe27cb2396": {
+      "ProjectGuid": "b79acb85-2e83-4cfc-8584-b4fe27cb2396",
+      "DisplayName": "SolvingAProblem_Exception",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\USINGBlock.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\USINGBlock.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\USINGBlock.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\USINGBlock.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\ref\USINGBlock.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\bin\Debug\net6.0\USINGBlock.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\ref\USINGBlock.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\USINGBlock\obj\Debug\net6.0\USINGBlock.genruntimeconfig.cache
