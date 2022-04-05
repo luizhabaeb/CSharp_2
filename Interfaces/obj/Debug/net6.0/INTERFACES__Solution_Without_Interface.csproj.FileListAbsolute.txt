@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\INTERFACES__Solution_Without_Interface.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\INTERFACES__Solution_Without_Interface.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\INTERFACES__Solution_Without_Interface.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\INTERFACES__Solution_Without_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\ref\INTERFACES__Solution_Without_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\bin\Debug\net6.0\INTERFACES__Solution_Without_Interface.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\ref\INTERFACES__Solution_Without_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Interfaces\obj\Debug\net6.0\INTERFACES__Solution_Without_Interface.genruntimeconfig.cache

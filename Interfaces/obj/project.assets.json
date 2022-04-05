@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\Interfaces\\Interfaces.csproj",
-      "projectName": "Interfaces",
-      "projectPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\Interfaces\\INTERFACES__Solution_With_Interface.csproj",
+      "projectName": "INTERFACES__Solution_With_Interface",
+      "projectPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\Interfaces\\INTERFACES__Solution_With_Interface.csproj",
       "packagesPath": "C:\\Users\\elisilu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",

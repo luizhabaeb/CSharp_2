@@ -12,3 +12,4 @@ C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exe
 C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\ref\Exercises_CSV.dll
 C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.pdb
 C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Exercises_CSV\obj\Debug\net6.0\Exercises_CSV.csproj.AssemblyReference.cache

@@ -55,7 +55,47 @@
       "ProjectGuid": "b79acb85-2e83-4cfc-8584-b4fe27cb2396",
       "DisplayName": "SolvingAProblem_Exception",
       "ColorIndex": 10
+    },
+    "391e7d38-9729-4cc2-875e-1a686d14d866": {
+      "ProjectGuid": "391e7d38-9729-4cc2-875e-1a686d14d866",
+      "DisplayName": "WorkingWithFILES",
+      "ColorIndex": 11
+    },
+    "ca97d10a-df7c-4ee2-88d2-bdc6f0222380": {
+      "ProjectGuid": "ca97d10a-df7c-4ee2-88d2-bdc6f0222380",
+      "DisplayName": "FileStream_StreamReader",
+      "ColorIndex": 12
+    },
+    "845710e9-2dc0-4664-9fce-2540b7b7608a": {
+      "ProjectGuid": "845710e9-2dc0-4664-9fce-2540b7b7608a",
+      "DisplayName": "USINGBlock",
+      "ColorIndex": 13
+    },
+    "03185a26-9afd-43c8-8859-076e070da508": {
+      "ProjectGuid": "03185a26-9afd-43c8-8859-076e070da508",
+      "DisplayName": "StreamWriter",
+      "ColorIndex": 14
+    },
+    "ba325603-8e60-48ce-9cc2-ea0ec2089e30": {
+      "ProjectGuid": "ba325603-8e60-48ce-9cc2-ea0ec2089e30",
+      "DisplayName": "Directory_DirectoryInfo",
+      "ColorIndex": 15
+    },
+    "c939c2ac-1d6c-429b-b20d-d95902c5b9d3": {
+      "ProjectGuid": "c939c2ac-1d6c-429b-b20d-d95902c5b9d3",
+      "DisplayName": "Paths",
+      "ColorIndex": 0
+    },
+    "248d54ca-b99b-4065-a4d6-ca6875884292": {
+      "ProjectGuid": "248d54ca-b99b-4065-a4d6-ca6875884292",
+      "DisplayName": "Exercises_CSV",
+      "ColorIndex": 1
+    },
+    "f6519914-5aec-414b-8ffc-4693e04418ed": {
+      "ProjectGuid": "f6519914-5aec-414b-8ffc-4693e04418ed",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 3
 }

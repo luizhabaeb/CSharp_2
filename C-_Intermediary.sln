@@ -23,21 +23,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling_Training"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolvingAProblem_Exception", "SolvingAProblem_Exception\SolvingAProblem_Exception.csproj", "{B79ACB85-2E83-4CFC-8584-B4FE27CB2396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFILES", "WorkingWithFILES\WorkingWithFILES.csproj", "{391E7D38-9729-4CC2-875E-1A686D14D866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithFILES", "WorkingWithFILES\WorkingWithFILES.csproj", "{391E7D38-9729-4CC2-875E-1A686D14D866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream_StreamReader", "FileStream_StreamReader\FileStream_StreamReader.csproj", "{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStream_StreamReader", "FileStream_StreamReader\FileStream_StreamReader.csproj", "{CA97D10A-DF7C-4EE2-88D2-BDC6F0222380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USINGBlock", "USINGBlock\USINGBlock.csproj", "{845710E9-2DC0-4664-9FCE-2540B7B7608A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USINGBlock", "USINGBlock\USINGBlock.csproj", "{845710E9-2DC0-4664-9FCE-2540B7B7608A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{03185A26-9AFD-43C8-8859-076E070DA508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{03185A26-9AFD-43C8-8859-076E070DA508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory_DirectoryInfo", "Directory_DirectoryInfo\Directory_DirectoryInfo.csproj", "{BA325603-8E60-48CE-9CC2-EA0EC2089E30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directory_DirectoryInfo", "Directory_DirectoryInfo\Directory_DirectoryInfo.csproj", "{BA325603-8E60-48CE-9CC2-EA0EC2089E30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paths", "Paths\Paths.csproj", "{C939C2AC-1D6C-429B-B20D-D95902C5B9D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises_CSV", "Exercises_CSV\Exercises_CSV.csproj", "{248D54CA-B99B-4065-A4D6-CA6875884292}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises_CSV", "Exercises_CSV\Exercises_CSV.csproj", "{248D54CA-B99B-4065-A4D6-CA6875884292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F6519914-5AEC-414B-8FFC-4693E04418ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INTERFACES__Solution_With_Interface", "Interfaces\INTERFACES__Solution_With_Interface.csproj", "{F6519914-5AEC-414B-8FFC-4693E04418ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
