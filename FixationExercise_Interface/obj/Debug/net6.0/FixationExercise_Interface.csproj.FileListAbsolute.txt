@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.csproj.AssemblyReference.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\FixationExercise_Interface.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\FixationExercise_Interface.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\FixationExercise_Interface.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\FixationExercise_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\ref\FixationExercise_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\bin\Debug\net6.0\FixationExercise_Interface.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\ref\FixationExercise_Interface.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\FixationExercise_Interface\obj\Debug\net6.0\FixationExercise_Interface.genruntimeconfig.cache

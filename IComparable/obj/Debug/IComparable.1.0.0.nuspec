@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IComparable</id>
+    <version>1.0.0</version>
+    <authors>IComparable</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\IComparable.runtimeconfig.json" target="lib\net6.0\IComparable.runtimeconfig.json" />
+    <file src="C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\IComparable.dll" target="lib\net6.0\IComparable.dll" />
+  </files>
+</package>

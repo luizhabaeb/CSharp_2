@@ -93,9 +93,24 @@
     },
     "f6519914-5aec-414b-8ffc-4693e04418ed": {
       "ProjectGuid": "f6519914-5aec-414b-8ffc-4693e04418ed",
-      "DisplayName": "Interfaces",
+      "DisplayName": "INTERFACES__Solution_With_Interface",
       "ColorIndex": 2
+    },
+    "4c453d9a-1b2a-4747-9986-a189eae9f1d6": {
+      "ProjectGuid": "4c453d9a-1b2a-4747-9986-a189eae9f1d6",
+      "DisplayName": "INTERFACES_Solution_With_Interface",
+      "ColorIndex": 3
+    },
+    "df644b4e-d607-4a0e-98bd-454337eb2e63": {
+      "ProjectGuid": "df644b4e-d607-4a0e-98bd-454337eb2e63",
+      "DisplayName": "FixationExercise_Interface",
+      "ColorIndex": 4
+    },
+    "a69a2798-65f2-465a-ba13-18364a49c694": {
+      "ProjectGuid": "a69a2798-65f2-465a-ba13-18364a49c694",
+      "DisplayName": "IComparable",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

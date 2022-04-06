@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FixationExercise_Interface/1.0.0": {
+        "runtime": {
+          "FixationExercise_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixationExercise_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

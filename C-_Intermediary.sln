@@ -39,6 +39,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises_CSV", "Exercises_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INTERFACES__Solution_With_Interface", "Interfaces\INTERFACES__Solution_With_Interface.csproj", "{F6519914-5AEC-414B-8FFC-4693E04418ED}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixationExercise_Interface", "FixationExercise_Interface\FixationExercise_Interface.csproj", "{DF644B4E-D607-4A0E-98BD-454337EB2E63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_IComparable", "IComparable\Interface_IComparable.csproj", "{A69A2798-65F2-465A-BA13-18364A49C694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{F6519914-5AEC-414B-8FFC-4693E04418ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6519914-5AEC-414B-8FFC-4693E04418ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6519914-5AEC-414B-8FFC-4693E04418ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF644B4E-D607-4A0E-98BD-454337EB2E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF644B4E-D607-4A0E-98BD-454337EB2E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF644B4E-D607-4A0E-98BD-454337EB2E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF644B4E-D607-4A0E-98BD-454337EB2E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69A2798-65F2-465A-BA13-18364A49C694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A2798-65F2-465A-BA13-18364A49C694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A2798-65F2-465A-BA13-18364A49C694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A2798-65F2-465A-BA13-18364A49C694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
