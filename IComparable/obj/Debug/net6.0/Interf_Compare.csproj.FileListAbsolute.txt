@@ -12,3 +12,4 @@ C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Inter
 C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\ref\Interf_Compare.dll
 C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.pdb
 C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.csproj.AssemblyReference.cache
