@@ -108,7 +108,7 @@
     },
     "a69a2798-65f2-465a-ba13-18364a49c694": {
       "ProjectGuid": "a69a2798-65f2-465a-ba13-18364a49c694",
-      "DisplayName": "IComparable",
+      "DisplayName": "Interface_IComparable",
       "ColorIndex": 5
     }
   },
