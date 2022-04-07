@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\Generics_WithREUSE.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\Generics_WithREUSE.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\Generics_WithREUSE.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\Generics_WithREUSE.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\ref\Generics_WithREUSE.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\bin\Debug\net6.0\Generics_WithREUSE.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\ref\Generics_WithREUSE.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Generics_WithREUSE\obj\Debug\net6.0\Generics_WithREUSE.csproj.AssemblyReference.cache
