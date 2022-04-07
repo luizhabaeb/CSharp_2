@@ -1,0 +1,14 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\Interf_Compare.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\Interf_Compare.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\Interf_Compare.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\Interf_Compare.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\ref\Interf_Compare.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\bin\Debug\net6.0\Interf_Compare.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\ref\Interf_Compare.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\IComparable\obj\Debug\net6.0\Interf_Compare.genruntimeconfig.cache

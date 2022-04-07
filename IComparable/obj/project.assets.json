@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\IComparable\\Interface_IComparable.csproj",
-      "projectName": "Interface_IComparable",
-      "projectPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\IComparable\\Interface_IComparable.csproj",
+      "projectUniqueName": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\IComparable\\Interf_Compare.csproj",
+      "projectName": "Interf_Compare",
+      "projectPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\IComparable\\Interf_Compare.csproj",
       "packagesPath": "C:\\Users\\elisilu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\elisilu\\source\\repos\\C-_Intermediary\\IComparable\\obj\\",
       "projectStyle": "PackageReference",

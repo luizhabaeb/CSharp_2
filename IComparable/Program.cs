@@ -1,4 +1,4 @@
-﻿using Interface_IComparable.Entities;
+﻿using Interf_Compare.Entities;
 
 string path = @"C:\Users\elisilu\Documents\C#\func.txt";
 

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace Interface_IComparable.Entities
+namespace Interf_Compare.Entities
 {
     internal class Employee : IComparable
     {
