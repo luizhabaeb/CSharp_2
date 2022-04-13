@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//tipo 'T' > Tipo genérico, pois teremos a operação de adicionar um valor do tipo T
+//Na hora de declarar o objeto, especificar QUAL o tipo T que queremos
+
 namespace Generics
 {
     internal class PrintService<T>

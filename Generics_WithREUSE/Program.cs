@@ -5,7 +5,7 @@
 
 using Generics;
 
-PrintService<int> printService = new PrintService<int>();
+PrintService<string> printService = new PrintService<string>();
 
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.Write("How many values you want to input? ");
@@ -13,7 +13,7 @@ int n = int.Parse(Console.ReadLine());
 Console.ResetColor();
 for (int i = 0; i < n; i++)
 {
-    int x = int.Parse(Console.ReadLine());
+    string x = (Console.ReadLine());
     printService.AddValue(x);
 }
 

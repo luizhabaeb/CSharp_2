@@ -1,0 +1,15 @@
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\Restriction_Generics.exe
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\Restriction_Generics.deps.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\Restriction_Generics.runtimeconfig.json
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\Restriction_Generics.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\ref\Restriction_Generics.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\bin\Debug\net6.0\Restriction_Generics.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.AssemblyInfoInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.AssemblyInfo.cs
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.csproj.CoreCompileInputs.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\ref\Restriction_Generics.dll
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.pdb
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.genruntimeconfig.cache
+C:\Users\elisilu\source\repos\C-_Intermediary\Restriction_Generics\obj\Debug\net6.0\Restriction_Generics.csproj.AssemblyReference.cache

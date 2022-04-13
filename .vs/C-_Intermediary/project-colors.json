@@ -110,7 +110,17 @@
       "ProjectGuid": "a69a2798-65f2-465a-ba13-18364a49c694",
       "DisplayName": "Interf_Compare",
       "ColorIndex": 5
+    },
+    "b0de0030-c631-40be-a2eb-5c8f231ca6cf": {
+      "ProjectGuid": "b0de0030-c631-40be-a2eb-5c8f231ca6cf",
+      "DisplayName": "Generics",
+      "ColorIndex": 6
+    },
+    "3dcf603e-2acc-449b-b555-e24cdcd6024c": {
+      "ProjectGuid": "3dcf603e-2acc-449b-b555-e24cdcd6024c",
+      "DisplayName": "Generics_WithREUSE",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

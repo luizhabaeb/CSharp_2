@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixationExercise_Interface"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interf_Compare", "IComparable\Interf_Compare.csproj", "{A69A2798-65F2-465A-BA13-18364A49C694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B0DE0030-C631-40BE-A2EB-5C8F231CA6CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{B0DE0030-C631-40BE-A2EB-5C8F231CA6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics_WithREUSE", "Generics_WithREUSE\Generics_WithREUSE.csproj", "{3DCF603E-2ACC-449B-B555-E24CDCD6024C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics_WithREUSE", "Generics_WithREUSE\Generics_WithREUSE.csproj", "{3DCF603E-2ACC-449B-B555-E24CDCD6024C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restriction_Generics", "Restriction_Generics\Restriction_Generics.csproj", "{795C59AF-D118-49E0-8200-9D84FFA5D123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{3DCF603E-2ACC-449B-B555-E24CDCD6024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCF603E-2ACC-449B-B555-E24CDCD6024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCF603E-2ACC-449B-B555-E24CDCD6024C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795C59AF-D118-49E0-8200-9D84FFA5D123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795C59AF-D118-49E0-8200-9D84FFA5D123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795C59AF-D118-49E0-8200-9D84FFA5D123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795C59AF-D118-49E0-8200-9D84FFA5D123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
